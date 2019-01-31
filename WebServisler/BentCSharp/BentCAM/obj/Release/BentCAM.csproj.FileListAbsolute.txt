@@ -1,0 +1,10 @@
+C:\Users\omer\Documents\Visual Studio 2012\Projects\WebSite\BentCAM\BentCAM\bin\BentCAM.dll
+C:\Users\omer\Documents\Visual Studio 2012\Projects\WebSite\BentCAM\BentCAM\bin\BentCAM.pdb
+C:\Users\omer\Documents\Visual Studio 2012\Projects\WebSite\BentCAM\BentCAM\obj\Release\BentCAM.csprojResolveAssemblyReference.cache
+C:\Users\omer\Documents\Visual Studio 2012\Projects\WebSite\BentCAM\BentCAM\obj\Release\BentCAM.dll
+C:\Users\omer\Documents\Visual Studio 2012\Projects\WebSite\BentCAM\BentCAM\obj\Release\BentCAM.pdb
+E:\Omer\WorksOtherPC\BentCSharp\BentCAM\bin\BentCAM.dll
+E:\Omer\WorksOtherPC\BentCSharp\BentCAM\bin\BentCAM.pdb
+E:\Omer\WorksOtherPC\BentCSharp\BentCAM\obj\Release\BentCAM.csprojResolveAssemblyReference.cache
+E:\Omer\WorksOtherPC\BentCSharp\BentCAM\obj\Release\BentCAM.dll
+E:\Omer\WorksOtherPC\BentCSharp\BentCAM\obj\Release\BentCAM.pdb

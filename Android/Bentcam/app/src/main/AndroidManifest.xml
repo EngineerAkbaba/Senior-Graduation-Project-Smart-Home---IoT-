@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.omer.bentcam" >
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="SmartDevice"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".MainActivity"
+            android:label="SmartDevice" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Sign_in"
+            android:label="@string/title_activity_sign_in" >
+        </activity>
+        <activity
+            android:name=".Sign_Up"
+            android:label="@string/title_activity_sign__up" >
+        </activity>
+        <activity
+            android:name=".Forgot_password"
+            android:label="@string/title_activity_forgot_password" >
+        </activity>
+        <activity
+            android:name=".Homepage"
+            android:label="@string/title_activity_homepage" >
+        </activity>
+        <activity
+            android:name=".List_devices"
+            android:label="@string/title_activity_list_devices" >
+        </activity>
+        <activity
+            android:name=".Change_Password"
+            android:label="@string/title_activity_change__password" >
+        </activity>
+        <activity
+            android:name=".insertDevice"
+            android:label="@string/title_activity_insert_device" >
+        </activity>
+        <activity
+            android:name=".UpdateDevice"
+            android:label="@string/title_activity_update_device" >
+        </activity>
+        <activity
+            android:name=".publishBarInfo"
+            android:label="@string/title_activity_publish_bar_info" >
+        </activity>
+        <activity
+            android:name=".checkTopic"
+            android:label="@string/title_activity_check_topic" >
+        </activity>
+    </application>
+
+</manifest>
